@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:my_first_flutter/commands/read.dart';
+import '../commands/read.dart';
 
 class MyTable extends StatefulWidget {
   const MyTable({Key? key})

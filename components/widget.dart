@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:my_first_flutter/components/form.dart';
-import 'package:my_first_flutter/services/http.dart';
+import '../components/form.dart';
+import '../services/http.dart';
 
 import '../services/httpdelete.dart';
 import '../services/httpput.dart';
